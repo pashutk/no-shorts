@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Pi_Pico")(type "KiCad")(uri "${KIPRJMOD}/lib/Pi_Pico.kicad_sym")(options "")(descr ""))
+  (lib (name "CX60-24S-UNIT")(type "KiCad")(uri "${KIPRJMOD}/lib/CX60-24S-UNIT.kicad_sym")(options "")(descr ""))
+  (lib (name "TCA6424ARGJR")(type "KiCad")(uri "${KIPRJMOD}/lib/TCA6424ARGJR.kicad_sym")(options "")(descr ""))
+  (lib (name "USB4080-03-A_REVA1")(type "KiCad")(uri "${KIPRJMOD}/lib/USB4080-03-A_REVA1.kicad_sym")(options "")(descr ""))
+)

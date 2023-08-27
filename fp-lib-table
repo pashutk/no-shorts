@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "usb-shorts-tester")(type "KiCad")(uri "${KIPRJMOD}/usb-shorts-tester.pretty")(options "")(descr ""))
+)
